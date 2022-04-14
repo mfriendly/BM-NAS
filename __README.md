@@ -1,5 +1,4 @@
 
-python trainsearch.py -drawf bar_area -col s_trix-s_Volume --index SP500
 
 
 
