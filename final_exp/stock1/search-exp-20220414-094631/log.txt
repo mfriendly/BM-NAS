@@ -1,5 +1,0 @@
-2022-04-14 09:46:31,940 args = Namespace(C=29, L=16, Ti=1, Tm=2, arch_learning_rate=0.0003, arch_weight_decay=0.001, batchsize=8, coltype='trix-Volume', dir_path='/nas3/mink/charts/fus_SP500_bar_area/trix-Volume', dl=False, draw_fnc='bar_area', drpt=0.1, epochs=30, eta_max=0.001, eta_min=1e-06, history_len=30, index='SP500', multiplier=2, node_multiplier=2, node_steps=2, num_input_nodes=11, num_keep_edges=2, num_outputs=32, num_workers=0, parallel=False, save='final_exp/stock1/search-exp-20220414-094631', seed=2, small_dataset=False, step_len=1, steps=2, weight_decay=0.0001)
-2022-04-14 09:46:32,603 BM-NAS Started.
-2022-04-14 09:46:37,740 Epoch: 0
-2022-04-14 09:46:37,741 EXP: final_exp/stock1/search-exp-20220414-094631
-2022-04-14 09:46:37,741 Architecture Learning Rate: 0.0003
